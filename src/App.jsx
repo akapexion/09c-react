@@ -1,6 +1,6 @@
 import React from 'react'
-// import APIIntegration from './APIIntegration'
-import A from './A'
+import APIIntegration from './APIIntegration'
+// import A from './A'
 
 const App = () => {
 
@@ -14,9 +14,9 @@ const App = () => {
 
   return (
     <div>
-      {/* <APIIntegration/> */}
+      <APIIntegration/>
 
-      <A myData = {obj}/>
+      {/* <A myData = {obj}/> */}
 
 
 
