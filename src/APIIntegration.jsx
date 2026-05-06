@@ -36,7 +36,7 @@ const APIIntegration = () => {
               <span>{c.description}</span>
 
               <div className="btn">
-              <Link className='bg-blue-600 text-white px-20 py-3'>Explore</Link>
+                <Link className='bg-blue-600 text-white px-20 py-3'>Explore</Link>
               </div>
 
             </div>
